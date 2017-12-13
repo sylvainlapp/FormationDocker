@@ -1,4 +1,4 @@
-FROM centos:centos6
+FROM i386:centos6
 LABEL maintainer="sylvain"
 # install package and monitoring tools
 RUN yum -y update && \
