@@ -1,0 +1,16 @@
+[schema]
+version=3
+
+[/usr/lib/mozilla/plugins/librhythmbox-itms-detection-plugin.so]
+mtime=1486852188
+name=iTunes Application Detector
+description=This plug-in detects the presence of iTunes when opening iTunes Store URLs in a web page with Firefox.
+mime-description=application/itunes-plugin::
+requires-gtk2=false
+
+[/usr/lib/mozilla/plugins/libgnome-shell-browser-plugin.so]
+mtime=1494513642
+name=GNOME Shell Integration
+description=This plugin provides integration with GNOME Shell for live extension enabling and disabling. It can be used only by extensions.gnome.org
+mime-description=application/x-gnome-shell-integration::gnome shell integration dummy content-type
+requires-gtk2=false
